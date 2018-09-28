@@ -1,2 +1,2 @@
 # http_server
-An http server based on Node.js
+A simple http server based on Node.js
